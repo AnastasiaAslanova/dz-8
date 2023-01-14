@@ -52,7 +52,7 @@ body {
   position: relative;
   border: 1px solid #88839E;
   border-radius: 3px;
-  transition: 2s ease-in;
+  transition: .1s ease-in;
 }
 
 .list li > p {
